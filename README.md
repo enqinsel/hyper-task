@@ -1,7 +1,3 @@
-# Vue 3 + Vite
+## <div align="center"><a href="https://hyper-task-live.netlify.app/"><b>--> LIVE <--</b></a></div>
+![image](https://user-images.githubusercontent.com/76450122/229923681-1f3e46a1-1b63-4c3e-b61c-78771360196e.png)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
