@@ -7,6 +7,6 @@
     direction="left"
     scrollamount="10"
     class="bg-danger text-white"
-    >Angular bilgim olmadığı için Vue.js ile yapmak istedim. Bugünden tezi yok Angular öğreneceğim 😊</marquee
+    >Engin İnsel / Apr 5, 2023 </marquee
   >
 </template>
